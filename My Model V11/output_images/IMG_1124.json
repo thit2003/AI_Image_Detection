@@ -1,0 +1,23 @@
+{
+    "version": "4.5.9",
+    "imagePath": "IMG_1124.JPG",
+    "imageData": null,
+    "shapes": [
+        {
+            "label": "seller_vat_number",
+            "points": [
+                [
+                    491,
+                    562
+                ],
+                [
+                    775,
+                    590
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ]
+}

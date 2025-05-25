@@ -1,0 +1,71 @@
+{
+    "version": "4.5.9",
+    "imagePath": "Image.jpg",
+    "imageData": null,
+    "shapes": [
+        {
+            "label": "seller_vat_number",
+            "points": [
+                [
+                    790,
+                    1837
+                ],
+                [
+                    1724,
+                    1989
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "total_due_amount",
+            "points": [
+                [
+                    624,
+                    2486
+                ],
+                [
+                    2064,
+                    2655
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "price",
+            "points": [
+                [
+                    2276,
+                    2294
+                ],
+                [
+                    2576,
+                    2462
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Doc_date",
+            "points": [
+                [
+                    1921,
+                    2922
+                ],
+                [
+                    2385,
+                    3082
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "version": "4.5.9",
+    "imagePath": "image_38_jpg.rf.61af2993aec16e312cb4a013a8ed6cc7.jpg",
+    "imageData": null,
+    "shapes": [
+        {
+            "label": "Doc_date",
+            "points": [
+                [
+                    94,
+                    14
+                ],
+                [
+                    421,
+                    199
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "price",
+            "points": [
+                [
+                    89,
+                    41
+                ],
+                [
+                    448,
+                    124
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "price",
+            "points": [
+                [
+                    427,
+                    109
+                ],
+                [
+                    489,
+                    162
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "total_due_amount",
+            "points": [
+                [
+                    177,
+                    159
+                ],
+                [
+                    404,
+                    177
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Doc_date",
+            "points": [
+                [
+                    373,
+                    193
+                ],
+                [
+                    442,
+                    210
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "seller_vat_number",
+            "points": [
+                [
+                    202,
+                    56
+                ],
+                [
+                    344,
+                    73
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Doc_date",
+            "points": [
+                [
+                    33,
+                    4
+                ],
+                [
+                    377,
+                    204
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ]
+}

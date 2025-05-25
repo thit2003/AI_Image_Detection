@@ -1,0 +1,39 @@
+{
+    "version": "4.5.9",
+    "imagePath": "IMG_1107.JPG",
+    "imageData": null,
+    "shapes": [
+        {
+            "label": "Doc_date",
+            "points": [
+                [
+                    389,
+                    323
+                ],
+                [
+                    462,
+                    343
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Doc_date",
+            "points": [
+                [
+                    354,
+                    323
+                ],
+                [
+                    439,
+                    343
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ]
+}

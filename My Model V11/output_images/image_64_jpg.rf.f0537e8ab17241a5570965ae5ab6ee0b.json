@@ -1,0 +1,55 @@
+{
+    "version": "4.5.9",
+    "imagePath": "image_64_jpg.rf.f0537e8ab17241a5570965ae5ab6ee0b.jpg",
+    "imageData": null,
+    "shapes": [
+        {
+            "label": "Doc_date",
+            "points": [
+                [
+                    484,
+                    100
+                ],
+                [
+                    536,
+                    111
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "price",
+            "points": [
+                [
+                    512,
+                    168
+                ],
+                [
+                    566,
+                    205
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "total_due_amount",
+            "points": [
+                [
+                    409,
+                    369
+                ],
+                [
+                    568,
+                    385
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ]
+}

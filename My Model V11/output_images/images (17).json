@@ -1,0 +1,55 @@
+{
+    "version": "4.5.9",
+    "imagePath": "images (17).jpeg",
+    "imageData": null,
+    "shapes": [
+        {
+            "label": "price",
+            "points": [
+                [
+                    399,
+                    80
+                ],
+                [
+                    439,
+                    197
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "price",
+            "points": [
+                [
+                    184,
+                    80
+                ],
+                [
+                    222,
+                    260
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "seller_vat_number",
+            "points": [
+                [
+                    279,
+                    42
+                ],
+                [
+                    411,
+                    53
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ]
+}

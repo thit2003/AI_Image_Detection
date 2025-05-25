@@ -1,0 +1,15 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 7
+names:
+  [
+    "Doc_date",
+    "price",
+    "quantity_item",
+    "seller_name_eng",
+    "seller_name_thai",
+    "seller_vat_number",
+    "total_due_amount",
+  ]

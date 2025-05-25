@@ -1,0 +1,23 @@
+{
+    "version": "4.5.9",
+    "imagePath": "images (11).jpeg",
+    "imageData": null,
+    "shapes": [
+        {
+            "label": "price",
+            "points": [
+                [
+                    398,
+                    300
+                ],
+                [
+                    461,
+                    431
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ]
+}
